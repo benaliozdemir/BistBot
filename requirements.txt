@@ -1,3 +1,6 @@
 yfinance
 requests
 bs4
+telegram
+telebot
+pyTelegramBOTAPI
